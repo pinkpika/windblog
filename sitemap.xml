@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://pinkpika.github.io/windblog/tags/index.html</loc>
+    
+    <lastmod>2022-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://pinkpika.github.io/windblog/categories/index.html</loc>
+    
+    <lastmod>2022-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://pinkpika.github.io/windblog/about/index.html</loc>
+    
+    <lastmod>2022-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://pinkpika.github.io/windblog/2022/03/20/%E8%81%96%E7%81%AB%E9%99%8D%E9%AD%94%E9%8C%84%E8%A6%BA%E9%86%92-%E5%BA%AB%E6%B4%9B%E5%A7%86-%E9%9C%B2%E8%8A%99%E8%95%BE/</loc>
     
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -118,37 +145,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://pinkpika.github.io/windblog/about/index.html</loc>
-    
-    <lastmod>2022-06-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://pinkpika.github.io/windblog/tags/index.html</loc>
-    
-    <lastmod>2022-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://pinkpika.github.io/windblog/categories/index.html</loc>
-    
-    <lastmod>2022-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://pinkpika.github.io/windblog</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,63 +156,63 @@
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/%E5%92%A9%E5%92%A9/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/%E8%87%AA%E5%AE%B6%E5%85%92%E5%A5%B3/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/%E9%BE%8D%E4%B9%8B%E8%B0%B7/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/%E5%B0%8F%E7%B2%89%E7%B4%85/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/%E8%B1%86%E5%A5%B6/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/FGO/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/Sol-Trigger/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/Death-note/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://pinkpika.github.io/windblog/tags/%E8%81%96%E7%81%AB%E9%99%8D%E9%AD%94%E9%8C%84/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -221,7 +221,7 @@
   
   <url>
     <loc>http://pinkpika.github.io/windblog/categories/Cosplay/</loc>
-    <lastmod>2022-06-05</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
