@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://pinkpika.github.io/windblog/2023/05/16/TOB-%E7%91%AA%E7%90%AA%E9%9C%B2/</loc>
+    
+    <lastmod>2023-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://pinkpika.github.io/windblog/2023/06/18/%E7%A6%8F%E6%98%9F%E5%B0%8F%E5%AD%90-%E6%8B%89%E5%A7%86-%E9%98%BF%E7%95%B6-2022ver/</loc>
     
     <lastmod>2023-06-24</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://pinkpika.github.io/windblog/2023/06/10/%E7%A2%A7%E8%97%8D%E8%88%AA%E7%B7%9A-%E7%B6%BE%E6%B3%A2%E6%BA%AB%E6%B3%89/</loc>
-    
-    <lastmod>2023-06-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://pinkpika.github.io/windblog/2023/05/16/TOB-%E7%91%AA%E7%90%AA%E9%9C%B2/</loc>
     
     <lastmod>2023-06-24</lastmod>
     
@@ -1003,13 +1003,6 @@
 
   
   <url>
-    <loc>http://pinkpika.github.io/windblog/categories/Lolita/</loc>
-    <lastmod>2023-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://pinkpika.github.io/windblog/categories/Cosplay/</loc>
     <lastmod>2023-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1018,6 +1011,13 @@
   
   <url>
     <loc>http://pinkpika.github.io/windblog/categories/Original/</loc>
+    <lastmod>2023-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://pinkpika.github.io/windblog/categories/Lolita/</loc>
     <lastmod>2023-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
